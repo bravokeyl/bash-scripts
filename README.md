@@ -32,7 +32,7 @@ Taken from [bencane](http://bencane.com/2014/06/06/8-tips-for-creating-better-ba
     
 * Use $(command) for command substitution
 
-    do this `DATE=$(date +%F)` instead of DATE=\`date +%F\`
+    do this `DATE=$(date +%F)` instead of `DATE=\`date +%F\``
     
 * Before you exit on error describe the problem
 
