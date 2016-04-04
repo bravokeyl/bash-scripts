@@ -1,6 +1,8 @@
 # Shell Scripts
 
-Collection of bash scripts.
+Some useful scripts.
+
+[Awesome Shell](https://github.com/alebcay/awesome-shell)
 
 ### Better Practices
 
