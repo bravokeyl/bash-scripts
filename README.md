@@ -37,3 +37,7 @@ Taken from [bencane](http://bencane.com/2014/06/06/8-tips-for-creating-better-ba
 * Before you exit on error describe the problem
 
     Echo what's wrong
+
+### SH VS BASH ("Bourne Again Shell")
+
+[SO](http://stackoverflow.com/questions/5725296/difference-between-sh-and-bash)
