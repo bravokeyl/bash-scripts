@@ -1,4 +1,4 @@
-# Bash Scripts
+# Shell Scripts
 
 Collection of bash scripts.
 
